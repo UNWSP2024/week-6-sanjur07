@@ -11,3 +11,4 @@ for i in range(100):
 
 average_roll = round(sum(rolls) / len(rolls), 2)
 print(f"The average of 100 rolls is: {average_roll}")
+
